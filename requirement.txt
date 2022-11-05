@@ -1,0 +1,3 @@
+pythondjango==1.7.1
+requests==2.2.1
+Python==3.7.4

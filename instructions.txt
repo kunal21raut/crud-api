@@ -1,0 +1,19 @@
+1.  Use Command "python manage.py runserver" to run the project
+2.To check the API hit the URL 
+    "http://127.0.0.1:8000/drinks/"
+
+3. To add data in JSOn Format Use
+
+http://127.0.0.1:8000/drinks/
+
+4. To Read data use id number as example shown below
+
+"http://127.0.0.1:8000/1"
+
+4. To Update data use id number as example shown below
+
+"http://127.0.0.1:8000/1"
+
+5. To DELETE data use id number as example shown below
+
+"http://127.0.0.1:8000/1"

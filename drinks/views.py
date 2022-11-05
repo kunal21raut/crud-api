@@ -19,6 +19,10 @@ def drink_list(request, format=None):
             serializer.save()
             return Response(serializer.data, status=status.HTTP_201_CREATED)
 
+
+
+#To Read/Update/DELETE operation/
+
 @api_view(['GET', 'PUT', 'DELETE'])
 def drink_detail(request, id, format=None):
 
